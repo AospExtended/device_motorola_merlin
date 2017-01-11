@@ -1,2 +1,2 @@
-add_lunch_combo cm_merlin-userdebug
-add_lunch_combo cm_merlin-eng
+add_lunch_combo aosp_merlin-userdebug
+add_lunch_combo aosp_merlin-eng
